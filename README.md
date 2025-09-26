@@ -36,13 +36,13 @@ It is my **Day 3 project** of the **15 Days Python Learning Roadmap**.
 
 ## Example
 ## 1
-what you want to convert : F to C ? or C to F?: c to f
+what you want to convert : F to C ? or C to F?: c to f<br>
 Enter the value in celsius: 25 <br>
 
 25 Celsius is equals to 77.0 Fahrenheits
 
 ## 2
-what you want to convert : F to C ? or C to F?: f to c
+what you want to convert : F to C ? or C to F?: f to c <br>
 Enter the value in fahrenheit: 98 <br>
 
 98 fahrenheits are equals to 36.666666666666664 Celcius
